@@ -1,0 +1,44 @@
+header {
+  background-color: lightblue;
+  height: 80px;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+nav {
+  background-color: lightgoldenrodyellow;
+  height: 80px;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+Main {
+  display: flex;
+  height: 300px;
+}
+Section {
+  background-color: lightcoral;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 3;
+}
+Aside {
+  background-color: lightcyan;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+}
+Footer {
+  background-color: lightgreen;
+  height: 80px;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
